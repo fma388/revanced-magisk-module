@@ -40,6 +40,13 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 excluded-patches = "'Custom branding icon YouTube' 'Disable HDR video'"
 
+[Facebook]
+app-name = "Facebook"
+build-mode = "module"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+apkmirror-arch = "arm64-v8a"
+
 [Twitter]
 build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
