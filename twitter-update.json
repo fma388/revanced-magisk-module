@@ -1,6 +1,6 @@
 {
-  "version": "v10.18.0-release.0",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/fma388/revanced-magisk-module/releases/download/2/twitter-revanced-magisk-v10.18.0-release.0-all.zip",
+  "version": "v10.20.0-release.0",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/fma388/revanced-magisk-module/releases/download/3/twitter-revanced-magisk-v10.20.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/fma388/revanced-magisk-module/update/build.md"
 }
