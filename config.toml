@@ -41,6 +41,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 excluded-patches = "'Custom branding icon YouTube' 'Disable HDR video'"
 
 [Facebook]
+enabled = false
 app-name = "Facebook"
 build-mode = "module"
 version = "auto"
