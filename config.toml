@@ -44,7 +44,7 @@ excluded-patches = "'Custom branding icon YouTube' 'Disable HDR video'"
 app-name = "Facebook"
 build-mode = "module"
 version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+apkmirror-dlurl = "https://archive.org/download/jhc-apks/apks/com.facebook.orca"
 apkmirror-arch = "both"
 
 [Twitter]
