@@ -28,11 +28,13 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Twitter]
 build-mode = "module"
+arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [TikTok]
 build-mode = "module"
+arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
 excluded-patches = "'Fix Google login'"
